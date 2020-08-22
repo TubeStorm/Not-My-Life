@@ -1,2 +1,2 @@
 # Not My Life
- Open world mobile game.
+ This is a UNITY open world mobile game, i am working on in my free time.
